@@ -174,7 +174,7 @@ section .title::after{
     font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
-  width: 100%;
+  width: 80%;
   display: flex;
 }
 .home .max-width .row{
